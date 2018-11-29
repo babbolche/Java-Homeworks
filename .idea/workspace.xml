@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dcab684-dbcb-47a9-b346-b1e1f447f31a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/.idea/HomeworkOne.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkOne/.idea/HomeworkOne.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkOne/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkOne/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkOne/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkOne/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkOne/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/Number2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/Number2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/Number3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/Number3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkOne/Number2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeworkOne/Number2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkOne/Number3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeworkOne/Number3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeworkOne/Number4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeworkOne/Number4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeworkOne/Number5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeworkOne/Number5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,37 +14,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number1.java">
+        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="49" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number4.java">
+        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number3.java">
+        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+            <state relative-caret-position="170">
+              <caret line="10" column="34" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -86,6 +69,7 @@
         <option value="$PROJECT_DIR$/src/HomeworkOne/Number2.java" />
         <option value="$PROJECT_DIR$/src/HomeworkOne/Number3.java" />
         <option value="$PROJECT_DIR$/src/HomeworkOne/Number4.java" />
+        <option value="$PROJECT_DIR$/src/HomeworkOne/Number5.java" />
       </list>
     </option>
   </component>
@@ -127,7 +111,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543515350431" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543515821021" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -142,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Number4">
+  <component name="RunManager" selected="Application.Number5">
     <configuration name="Number1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeworkOne.Number1" />
       <module name="Java-Homeworks" />
@@ -195,8 +179,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="St" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkOne.St" />
+    <configuration name="Number5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkOne.Number5" />
       <module name="Java-Homeworks" />
       <extension name="coverage">
         <pattern>
@@ -210,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number5" />
         <item itemvalue="Application.Number4" />
         <item itemvalue="Application.Number3" />
         <item itemvalue="Application.Number2" />
         <item itemvalue="Application.Number1" />
-        <item itemvalue="Application.St" />
       </list>
     </recent_temporary>
   </component>
@@ -287,10 +271,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number4.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number5.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
     </entry>
