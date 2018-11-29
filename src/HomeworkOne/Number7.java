@@ -1,10 +1,16 @@
 package HomeworkOne;
 
+import java.util.Scanner;
+
 public class Number7 {
     public static void main(String[] args) {
-        int hour = 18;
-        double money = 23.6;
-        boolean healthy = true;
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Type hour in whole number:");
+        int hour = scanner.nextInt();
+        System.out.println("How much money do you have?");
+        double money = scanner.nextDouble();
+        System.out.println("Are you healthy? (true/false)");
+        boolean healthy = scanner.nextBoolean();
         if (!healthy) {
             System.out.println("If I am not healthy I won`t go out.");
         }
