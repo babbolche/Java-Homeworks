@@ -1,9 +1,14 @@
 package HomeworkOne;
 
+import java.util.Scanner;
+
 public class Number4 {
     public static void main(String[] args) {
-        int A = 59;
-        int B = 48;
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Pick whole number:" );
+        int A = scanner.nextInt();
+        System.out.println("Pick one more whole number:" );
+        int B = scanner.nextInt();
         if (A > B) {
             System.out.println(B + " " + A);
         } else {

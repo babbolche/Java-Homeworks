@@ -1,12 +1,17 @@
 package HomeworkOne;
 
+import java.util.Scanner;
+
 public class Number3 {
     public static void main(String[] args) {
-        int A = 3;
-        int B = 4;
-        int C = A;
-        System.out.println(A=B);
-        System.out.println(B=C);
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Pick first whole number:");
+        int first = scanner.nextInt();
+        System.out.println("Pick first whole number:");
+        int second = scanner.nextInt();
+        int third = first;
+        System.out.println(first=second);
+        System.out.println(second=third);
     }
 
 }
