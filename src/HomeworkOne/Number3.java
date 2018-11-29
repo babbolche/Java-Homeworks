@@ -11,3 +11,7 @@ public class Number3 {
 
 }
 
+// без размяна int x = 10; int y = 5;
+//x = x + y;
+//y = x - y;
+//        x = x - y;
