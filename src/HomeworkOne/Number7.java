@@ -12,21 +12,21 @@ public class Number7 {
         System.out.println("Are you healthy? (true/false)");
         boolean healthy = scanner.nextBoolean();
         if (!healthy) {
-            System.out.println("If I am not healthy I won`t go out.");
+            System.out.println("If you are not healthy you won`t go out.");
         }
         //if (money > 0 && !healthy) {
-           // System.out.println("I have money for medicines.");
+           // System.out.println("You have money for medicines.");
         //}
         else {
-            System.out.println("I will go out to movie with friends");
+            System.out.println("You will go out to movie with friends");
         }
         if (money > 0) {
-            System.out.println("I have money for medicines.");
+            System.out.println("You have money for medicines.");
         } else {
-            System.out.println("I will stay at home and drink tea.");
+            System.out.println("You will stay at home and drink tea.");
         }
         if (money < 10) {
-            System.out.println("I will go out for a coffee with friends");
+            System.out.println("You will go out for a coffee with friends");
         }
 
 
