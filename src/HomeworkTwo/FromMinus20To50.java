@@ -1,3 +1,5 @@
+//Да се изведат на екрана числат от -20 до 50.
+
 package HomeworkTwo;
 
 public class FromMinus20To50 {

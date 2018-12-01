@@ -1,3 +1,5 @@
+//Да се изведат на екрана всички нечетни числа от -10 до 10
+
 package HomeworkTwo;
 
 public class OddNumbers {

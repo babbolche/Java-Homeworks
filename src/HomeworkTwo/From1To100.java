@@ -1,3 +1,5 @@
+//Да се изведат на екрана числата от 1 до 100..
+
 package HomeworkTwo;
 
 public class From1To100 {
