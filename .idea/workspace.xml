@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dcab684-dbcb-47a9-b346-b1e1f447f31a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/HomeworkOne/Number7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeworkOne/Number7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkTwo/From1To100.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkTwo/FromMinus20To50.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/BackwardNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/BetweenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/DevisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/From1To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/FromMinus20To50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/OddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/SumNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/Number7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/Number7.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,37 +24,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number6.java">
+        <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/BackwardNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number4.java">
+        <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/BetweenNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/SumNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number7.java">
+        <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/DevisibleBy3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+            <state relative-caret-position="170">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -72,6 +82,13 @@
         <option value="$PROJECT_DIR$/src/HomeworkOne/Number5.java" />
         <option value="$PROJECT_DIR$/src/HomeworkOne/Number6.java" />
         <option value="$PROJECT_DIR$/src/HomeworkOne/Number7.java" />
+        <option value="$PROJECT_DIR$/src/HomeworkTwo/From1To100.java" />
+        <option value="$PROJECT_DIR$/src/HomeworkTwo/FromMinus20To50.java" />
+        <option value="$PROJECT_DIR$/src/HomeworkTwo/OddNumbers.java" />
+        <option value="$PROJECT_DIR$/src/HomeworkTwo/BackwardNumbers.java" />
+        <option value="$PROJECT_DIR$/src/HomeworkTwo/BetweenNumbers.java" />
+        <option value="$PROJECT_DIR$/src/HomeworkTwo/SumNumbers.java" />
+        <option value="$PROJECT_DIR$/src/HomeworkTwo/DevisibleBy3.java" />
       </list>
     </option>
   </component>
@@ -81,12 +98,14 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,18 +122,19 @@
               <item name="Java-Homeworks" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Homeworks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeworkOne" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeworkTwo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543516563416" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543674538382" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../loops" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,13 +148,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Number7">
-    <configuration name="Number3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkOne.Number3" />
+  <component name="RunManager" selected="Application.DevisibleBy3">
+    <configuration name="BackwardNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkTwo.BackwardNumbers" />
       <module name="Java-Homeworks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeworkOne.*" />
+          <option name="PATTERN" value="HomeworkTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkOne.Number4" />
+    <configuration name="BetweenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkTwo.BetweenNumbers" />
       <module name="Java-Homeworks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeworkOne.*" />
+          <option name="PATTERN" value="HomeworkTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkOne.Number5" />
+    <configuration name="DevisibleBy3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkTwo.DevisibleBy3" />
       <module name="Java-Homeworks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeworkOne.*" />
+          <option name="PATTERN" value="HomeworkTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkOne.Number6" />
+    <configuration name="OddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkTwo.OddNumbers" />
       <module name="Java-Homeworks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeworkOne.*" />
+          <option name="PATTERN" value="HomeworkTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkOne.Number7" />
+    <configuration name="SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkTwo.SumNumbers" />
       <module name="Java-Homeworks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeworkOne.*" />
+          <option name="PATTERN" value="HomeworkTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Number7" />
-        <item itemvalue="Application.Number6" />
-        <item itemvalue="Application.Number5" />
-        <item itemvalue="Application.Number4" />
-        <item itemvalue="Application.Number3" />
+        <item itemvalue="Application.DevisibleBy3" />
+        <item itemvalue="Application.SumNumbers" />
+        <item itemvalue="Application.BetweenNumbers" />
+        <item itemvalue="Application.BackwardNumbers" />
+        <item itemvalue="Application.OddNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -219,8 +239,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2751678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -258,13 +279,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="613">
@@ -279,10 +293,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -293,10 +321,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HomeworkOne/Number7.java">
+    <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/From1To100.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/FromMinus20To50.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/OddNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/BackwardNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/BetweenNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/SumNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/DevisibleBy3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
