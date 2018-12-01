@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dcab684-dbcb-47a9-b346-b1e1f447f31a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkTwo/From1To100.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkTwo/FromMinus20To50.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/BackwardNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/BetweenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/DevisibleBy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/From1To100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/FromMinus20To50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/OddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeworkTwo/SumNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/Number7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Homeworks/HomeworkOne/Number7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeworkTwo/DevisibleBy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeworkTwo/DevisibleBy3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/DevisibleBy3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state>
+              <caret column="116" selection-start-column="116" selection-end-column="116" />
             </state>
           </provider>
         </entry>
@@ -133,7 +123,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543674538382" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543677916358" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../loops" />
   </component>
   <component name="RunDashboard">
@@ -239,7 +229,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2751678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -365,8 +354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HomeworkTwo/DevisibleBy3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state>
+          <caret column="116" selection-start-column="116" selection-end-column="116" />
         </state>
       </provider>
     </entry>
