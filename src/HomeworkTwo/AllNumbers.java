@@ -16,7 +16,7 @@ public class AllNumbers {
         int sum = 0;
         for (int i = a; i <= b; i++) {
             if (i % 3 == 0) {
-                System.out.print(" skip 3, ");
+                System.out.print(" skip " + i + ", ");
             } else {
                 System.out.print(i * i);
                 sum += i * i;
