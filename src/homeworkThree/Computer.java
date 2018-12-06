@@ -43,7 +43,7 @@ public class Computer {
         this.price = price;
     }
 
-    public boolean isNotebook() {
+    public boolean getNotebook() {
         return isNotebook;
     }
 

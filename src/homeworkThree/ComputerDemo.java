@@ -26,7 +26,7 @@ public class ComputerDemo {
         System.out.println("It's HD is " + computer.getHardDiskMemory() + " GB.");
         System.out.println("The free memory is: " + computer.getFreeMemory() + " GB.");
         System.out.println("The OS is " + computer.getOperationSystem());
-        System.out.println("Is this a notebook - " + computer.isNotebook);
+        System.out.println("Is this a notebook - " + computer.getNotebook());
 
         computer.useMemory(100);
 
@@ -43,7 +43,7 @@ public class ComputerDemo {
         System.out.println("It's HD is " + laptop.getHardDiskMemory() + " GB.");
         System.out.println("The free memory is: " + laptop.getFreeMemory() + " GB.");
         System.out.println("The OS is " + laptop.getOperationSystem());
-        System.out.println("Is this a notebook - " + laptop.isNotebook);
+        System.out.println("Is this a notebook - " + laptop.getNotebook());
 
         laptop.changeOperationSystem("Windows");
 
