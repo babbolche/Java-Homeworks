@@ -18,9 +18,9 @@ public class Ship {
     private int width;
     private int year;
     private double price;
-    private Ship motorboat;
+    private Motorboat motorboat;
 
-    public Ship(String name, int length, int width, int year, double price, Ship motorboat) {
+    public Ship(String name, int length, int width, int year, double price, Motorboat motorboat) {
         this.name = name;
         this.length = length;
         this.width = width;
@@ -69,11 +69,11 @@ public class Ship {
         this.price = price;
     }
 
-    public Ship getMotorboat() {
+    public Motorboat getMotorboat() {
         return motorboat;
     }
 
-    public void setMotorboat(Ship motorboat) {
+    public void setMotorboat(Motorboat motorboat) {
         this.motorboat = motorboat;
     }
 
