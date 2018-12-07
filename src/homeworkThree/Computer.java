@@ -20,12 +20,12 @@ operationSystem – текстово поле за операционната с
 package homeworkThree;
 
 public class Computer {
-    int year;
-    double price;
-    boolean isNotebook;
-    int hardDiskMemory;
-    double freeMemory;
-    String operationSystem;
+    private int year;
+    private double price;
+    private boolean isNotebook;
+    private int hardDiskMemory;
+    private double freeMemory;
+    private String operationSystem;
 
     public int getYear() {
         return year;
@@ -75,12 +75,12 @@ public class Computer {
         this.operationSystem = operationSystem;
     }
 
-    void changeOperationSystem(String newOperationSystem) {
+    public void changeOperationSystem(String newOperationSystem) {
         operationSystem = newOperationSystem;
         System.out.println("The new operation system is: " + newOperationSystem);
     }
 
-    void useMemory(double memory) {
+    public void useMemory(double memory) {
         if (freeMemory < memory) {
             System.out.println("Not enough free memory!");
         } else {
