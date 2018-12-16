@@ -3,6 +3,11 @@ package homeworkFive;
 public class Employee extends Person {
     private double daySalary;
 
+    public Employee(String name, int age, boolean isMan, double daySalary) {
+        super(name, age, isMan);
+        this.daySalary = daySalary;
+    }
+
     public double getDaySalary() {
         return daySalary;
     }
@@ -11,13 +16,13 @@ public class Employee extends Person {
         this.daySalary = daySalary;
     }
 
-    public double calculateOvertime(double hours) {
+    public void calculateOvertime(double hours) {
         if (getAge() < 18) {
-            System.out.println("No need of payment");
+            System.out.println("No need for payment");
         } else {
             double calculateOvertime;
-            double hourSalary = (daySalary/8)*1.5;
-            calculateOvertime = hours*hourSalary;
+            double hourSalary = (daySalary / 8) * 1.5;
+            calculateOvertime = hours * hourSalary;
             System.out.println(calculateOvertime);
         }
     }
